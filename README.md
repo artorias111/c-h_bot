@@ -1,2 +1,3 @@
-# c-h_bot
-A discord bot that gives you cyanide and happiness 
+# Ping_bot
+A discord bot that returns the ping when asked for 
+Just enter !ping when the bot's in the server
