@@ -1,5 +1,4 @@
 # Ping_bot
-https://discord.com/developers/applications
 
 A discord bot written using nodejs that returns the ping when asked for 
 
